@@ -1,0 +1,22 @@
+section{
+    height: 561px;
+    width: 355px;
+}
+
+
+.field{
+    width: 355px;
+    height: 56px;
+    padding: 18px 60px;
+}
+
+.field__item{
+    width:235px;
+    height: 21px;
+    border: none;
+    border-bottom: 1px solid var(--gray-600);
+    font-weight: 400;
+    font-size: 12px;
+    outline: none;
+}
+
